@@ -6,6 +6,10 @@ Pancake sorting is the colloquial term for the mathematical problem of sorting a
 
 ### [https://sauravhathi.github.io/pancake-sort/](https://sauravhathi.github.io/pancake-sort/)
 
+![image](https://user-images.githubusercontent.com/61316762/203542655-7b332345-459f-4d07-bf6d-3e3e46d9c84e.png)
+
+![image](https://user-images.githubusercontent.com/61316762/203542712-51b5ad89-92bc-46b0-8512-51491186d508.png)
+
 ## Features
 
 -   Sorts a list of numbers
